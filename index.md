@@ -4,8 +4,10 @@ layout: default
 description: "Frenyum is an open-source cryptocurrency project." 
 permalink: /
 ---
+# Frenyum Network
+{: .fs-9 }
 
-# Frenyum is [open-source] cryptocurrency network.
-
+Frenyum is an open-source cryptocurrency project.
+{: .fs-6 .fw-300 }
 
 ----
