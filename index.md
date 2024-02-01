@@ -10,4 +10,7 @@ permalink: /
 Frenyum is an open-source cryptocurrency project.
 {: .fs-6 .fw-300 }
 
+[Join the community](https://discord.gg/XkncSrKrrS){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View it on GitHub](https://github.com/Frenyum-Network/frenyum-node){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ----
