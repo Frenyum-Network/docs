@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Overview
 layout: default
 description: "Frenyum is an open-source cryptocurrency project." 
 permalink: /
