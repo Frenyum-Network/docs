@@ -13,7 +13,6 @@ Frenyum is an open-source cryptocurrency project.
 [Join the community](https://discord.gg/XkncSrKrrS){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub](https://github.com/Frenyum-Network/frenyum-node){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-# Frenyum Developer's Guide
 The main purpose of this document is to guide developers and users to get detailed information about the project. It documents the Frenyum architecture, key components and operating principles. It also provides guidance on how developers can set up the development environment. This document aims to present information about the project ecosystem in an understandable way.
 
 ----
