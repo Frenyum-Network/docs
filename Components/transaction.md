@@ -27,7 +27,8 @@ Transactions represent events that are performed on the blockchain. This section
 | `Gas Limit`     | The maximum amount of gas that can be spent in a transaction.        |
 | `Transaction Fee` | The fee paid by the user initiating the transaction.               |
 | `Timestamp`     | The timestamp indicating when the transaction was executed.          |
-| `Data`          | Additional data associated with the transaction.                    
+| `Data`          | Additional data associated with the transaction.                     |
 
-These components contain the basic features of a transaction. Documentation will continue to be developed throughout the process.|
+{: .note }
+These components contain the basic features of a transaction. Documentation will continue to be developed throughout the process.
 
