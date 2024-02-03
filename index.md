@@ -20,5 +20,5 @@ The main purpose of this document is to guide developers and users to get detail
 * [Block](/Components/block.md) - *Contains information about the block component. Describes the basic topics including block structure, block creation process and adding operations to the block.*
 * [Transaction](/Components/transaction.md) - *Contains information about the transaction component. It covers topics such as transfer transactions, smart contract transactions and the general operation of transactions.*
 * [Network](/Components/network.md) - *Contains information about the network component. It covers topics such as network nodes, communication protocols and network security.*
-* [Crypto](/Components/crypto.md) - *It contains information about the crypto component. It includes cryptographic algorithms used, security measures and other topics.*
+* [Crypto](/Components/crypto.md) - *Contains information about the crypto component. It includes cryptographic algorithms used, security measures and other topics.*
 ----
