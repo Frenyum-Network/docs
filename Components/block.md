@@ -5,8 +5,9 @@ parent: Components
 nav_order: 2
 ---
 
-# Buttons
-{: .no_toc }
+# Block
+A block is the basic building block of a blockchain. This section describes the general structure and components of a block.
+{: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -15,10 +16,6 @@ nav_order: 2
 {:toc}
 
 ---
-
-# Block
-A block is the basic building block of a blockchain. This section describes the general structure and components of a block.
-{: .fs-6 .fw-300 }
 
 ## Block Header
 The title of a block contains the general characteristics of the block.
