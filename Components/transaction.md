@@ -29,5 +29,6 @@ Transactions represent events that are performed on the blockchain. This section
 | `Timestamp`     | The timestamp indicating when the transaction was executed.          |
 | `Data`          | Additional data associated with the transaction.                     |
 
-{: .note } These components contain the basic features of a transaction. Documentation will continue to be developed throughout the process.
+{: .note } 
+These components contain the basic features of a transaction. Documentation will continue to be developed throughout the process.
 
