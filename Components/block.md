@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Block
-parent: components
+parent: Components
 nav_order: 2
 ---
