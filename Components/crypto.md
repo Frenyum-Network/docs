@@ -21,6 +21,12 @@ Blockchain uses cryptographic algorithms to ensure security and protect data int
 SHA256 is a secure hash algorithm used in the Frenyum network.
 
 - **Purpose:** To create a unique digest of blocks, transactions and other blockchain data.
-- **Usage Areas:** Signing transactions, ensuring the accuracy of transactions.
+- **Uses:** Check block integrity, determine if transactions have been modified.
 - **Performance:** A fast and efficient hashing algorithm.
-  
+
+### ed25519 - Digital Signature Scheme
+ed25519 is a digital signature algorithm used in Frenyum.
+
+- **Purpose:** To ensure the security of transactions.
+- **Usage Areas:** Signing transactions securely, securing transactions.
+- **Efficiency:** A computationally efficient and performance-oriented digital signing algorithm.
