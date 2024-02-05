@@ -16,3 +16,11 @@ Blockchain uses cryptographic algorithms to ensure security and protect data int
 {:toc}
 
 ---
+
+### SHA256 - Secure HAsh Algorithms
+SHA256 is a secure hash algorithm used in the Frenyum network.
+
+- **Purpose:** To create a unique digest of blocks, transactions and other blockchain data.
+- **Usage Areas:** Signing transactions, ensuring the accuracy of transactions.
+- **Performance:** A fast and efficient hashing algorithm.
+  
