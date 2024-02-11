@@ -35,6 +35,7 @@ Once the creation of a block is complete, the finalization phase of the block be
 | Field            | Description                                           |
 | :--------------- | :---------------------------------------------------- |
 | `*Block Header`  | Title of the completed block.                         |
-| `Transaction ID` | ID number of the transactions added to the block.     |
+| `Transaction`    | Represents transactions added to the block            |
+| `Validator`      | Represents the block validator                        |
 
 This basic information will help to understand the overall structure of the block. Documentation will continue to be developed in the process.
