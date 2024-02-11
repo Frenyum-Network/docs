@@ -22,12 +22,17 @@ The title of a block contains the general characteristics of the block.
 
 | Field            | Description                                           |
 | :--------------- | :---------------------------------------------------- |
+| `Version`        | Version of the block                                  |
 | `Parent Hash`    | The hash value of the previous block.                 |
+| `Block Number`   | Represents the number or height of the block.         |
 | `Height`         | The height of the location of the block.              |
 | `Timestamp`      | Time of creation of the block.                        |
 | `Difficulty`     | The difficulty of creating the block.                 |
 | `Nonce`          | The nonce value used in the creation of the block.    |
+| `Gas Price`      | Specifies the gas price per transaction.              |
 | `Gas Limit`      | The value that sets the maximum limit of transactions that can be executed in a block.  |
+| `Total Difficulty` | Represents the total difficulty level in the chain. |
+| `Transaction Root` | Represents the transaction root of the block.       |
 
 ## Finalize Block
 Once the creation of a block is complete, the finalization phase of the block begins. At this stage, the title of the block and the Transaction ID are determined.
