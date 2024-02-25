@@ -26,6 +26,7 @@ Transactions represent events that are performed on the blockchain. This section
 | `Action`        | Specifies the action to be performed in the transaction, for example sending money to an account or calling a contract function.          |
 | `Gas`           | Specifies the maximum amount of gas allocated for the process. The gas quantity specifies the maximum process cost required to perform the process. |
 | `Gas Price`     | Specifies the gas price to be paid per transaction. Gas represents the calculation amount needed to process the transaction.             |
+| `Value`         | Specifies the amount of assets to be transferred in the transaction, for example the amount of currency or tokens.         |
 | `Timestamp`     | The timestamp indicating when the transaction was executed.          |
 | `Data`          | Additional data associated with the transaction.                     |
 
