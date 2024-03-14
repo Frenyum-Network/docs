@@ -34,7 +34,9 @@ The title of a block contains the general characteristics of the block.
 
 ## Block Body
 The content of a block includes the transaction and additional data contained in it. 
+
 | Field            | Description                                           |
+| :--------------- | :---------------------------------------------------- |
 | `Gas Used`      |  This value indicates the transaction execution cost of the block.             |
 | `Gas Limit`      | The value that sets the maximum limit of transactions that can be executed in a block.  |
 | `Transaction`    | Represents transactions added to the block            |
