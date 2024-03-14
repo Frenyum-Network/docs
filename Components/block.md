@@ -34,7 +34,7 @@ The title of a block contains the general characteristics of the block.
 | `Total Difficulty` | Represents the total difficulty level in the chain. |
 | `Transaction Root` | Represents the transaction root of the block.       |
 
-## Finalize Block
+## Block
 Once the creation of a block is complete, the finalization phase of the block begins. At this stage, the title of the block and the Transaction ID are determined.
 
 | Field            | Description                                           |
