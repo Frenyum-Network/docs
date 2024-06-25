@@ -2,7 +2,7 @@
 layout: default
 title: Crypto
 parent: Components
-nav_order: 2
+nav_order: 3
 ---
 
 # Crypto
