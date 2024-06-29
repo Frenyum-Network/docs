@@ -2,5 +2,5 @@
 title: What is Frenyum?
 layout: default
 description: "" 
-permalink: /
+nav_order: 1
 ---
